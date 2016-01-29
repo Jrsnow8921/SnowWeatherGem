@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Justin Snow"]
   spec.email         = ["jrsnow8921@gmail.com"]
 
-  spec.summary       = %q{Simple weather gem to interact with Weather Undergounds Api}
-  spec.description   = %q{Simple weather gem to interact with Weather Undergounds Api}
+  spec.summary       = %q{Simple weather gem to interact with the Weather Undergound Api}
+  spec.description   = %q{Simple weather gem to interact with the Weather Undergound Api}
   spec.homepage      = "https://github.com/Jrsnow8921/SnowWeatherGem.git"
   spec.license       = "MIT"
 
