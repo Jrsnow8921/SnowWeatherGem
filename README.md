@@ -2,6 +2,9 @@
 
 SnowWeather is a simple Gem to interface with Weather Undergounds API
 
+## Status
+<a href="https://badge.fury.io/rb/SnowWeather"><img src="https://badge.fury.io/rb/SnowWeather.svg" alt="Gem Version" height="18"></a>
+
 ## Installation
 
 Add this line to your application's Gemfile:
