@@ -6,7 +6,9 @@ SnowWeather is a simple Gem to interface with Weather Undergounds API
 <a href="https://badge.fury.io/rb/SnowWeather"><img src="https://badge.fury.io/rb/SnowWeather.svg" alt="Gem Version" height="18"></a>
 
 ## Travis CI Build Status
-https://travis-ci.org/Jrsnow8921/SnowWeatherGem.svg?branch=master
+<a href="https://travis-ci.org/Jrsnow8921"><img src="https://travis-ci.org/Jrsnow8921/SnowWeatherGem.svg?branch=master" height="18"></a>
+
+
 
 ## Installation
 
