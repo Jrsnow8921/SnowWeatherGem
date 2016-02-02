@@ -3,9 +3,6 @@ language: ruby
 
 before_install: gem install bundler -v 1.10.6
 
-#run script
-#script:
-#  - source t_build.sh
 
 env:
   - RAILS_VERSION="~> 3.2.22"
