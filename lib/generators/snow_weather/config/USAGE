@@ -1,0 +1,5 @@
+Description:
+  Creates a config file for the SnowWeather gem with a key to access Weather Underground Api
+
+Example:
+  rails g snow_weather:config

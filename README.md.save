@@ -3,12 +3,12 @@
 SnowWeather is a simple Gem to interface with Weather Undergounds API
 
 ## Gem Status
-<a href="https://badge.fury.io/rb/SnowWeather"><img src="https://badge.fury.io/rb/SnowWeather.svg" alt="Gem Version" height="18"></a>
-
-## Travis CI Build Status
 <a href="https://travis-ci.org/Jrsnow8921"><img src="https://travis-ci.org/Jrsnow8921/SnowWeatherGem.svg?branch=master" height="18"></a>
 
+## Travis CI Build Status
 
+<a href="
+https://travis-ci.org/Jrsnow8921/SnowWeatherGem.svg?branch=master
 
 ## Installation
 
@@ -29,10 +29,10 @@ Or install it yourself as:
 ## Usage
 
 
-Install the configuration file please change the api key to your api key from Weather Underground. 
+Set the api_key whithin in a model or controller 
 
 ```ruby 
-  rails g snow_weather:config
+  SnowWeather.api_key(<'123456789123456789'>)
 ```
 
 
